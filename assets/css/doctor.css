@@ -2235,4 +2235,9 @@ h1.hero-left-htext > span {
     margin: 0px 0px 30px;
     height: 444px;
   }
+  .prescription-btn {
+
+    width: 100%;
+   justify-content: center;
+  }
 }
